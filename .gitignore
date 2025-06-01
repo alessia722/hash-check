@@ -1,0 +1,7 @@
+.venv
+.env
+hashes.txt
+output-hash-check.txt
+output-hash-check.csv
+.idea
+
